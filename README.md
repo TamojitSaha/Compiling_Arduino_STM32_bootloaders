@@ -6,7 +6,7 @@ Here I walk you through some steps so that you can compile the [bootloaders](htt
 Follow the step carefully, so that you don't land up in soup.
 
 Install [7z](https://www.7-zip.org/download.html) if you dont have.
-If you already have WinAVR installed jump to [STEP 3](#step_3)
+
 
 ## STEP_1
 Install WinAVR to get `make` command in Windows commandline from [here](http://winavr.sourceforge.net/download.html).
