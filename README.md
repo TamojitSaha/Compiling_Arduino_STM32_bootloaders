@@ -6,7 +6,7 @@ Here I walk you through some steps so that you can compile the [booloaders](http
 Follow the step carefully, so that you don't land up in soup.
 
 Install [7z](https://www.7-zip.org/download.html) if you dont have.
-If you already have WinAVR installed jump to [STEP 3](#step3)
+If you already have WinAVR installed jump to [STEP 3](#step 3)
 
 ## STEP 1
 Install WinAVR to get `make` command in Windows commandline from [here](http://winavr.sourceforge.net/download.html).
@@ -48,7 +48,7 @@ arm-none-eabi-gcc: fatal error: no input files
 compilation terminated.
 ```
 
-then, you have successfully completed [STEP 5](#step5).
+then, you have successfully completed [STEP 5](#step 5).
 
 ## STEP 7
 Download the bootloaders from [here](https://github.com/rogerclarkmelbourne/STM32duino-bootloader). Extract it and open command window in the same directory. If you are unable to open the command window in the extracted **STM32duino-bootloader** folder run the [registry file](Add_Open_Command_Window_Here_as_Administrator.reg) provided in this repo. This will edit your registry, so that you can open command window in any of your desired directory. **It makes your life a lot easier!!**.
