@@ -1,6 +1,6 @@
 # Introduction
 This repo is a result of painstaking quest to find answer for **How to compile STM32duino bootloaders ?**
-Here I walk you through some steps so that you can compile the [booloaders](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) provided by [Roger Clark](https://github.com/rogerclarkmelbourne). The steps shown here are for compiling in Windows platform.
+Here I walk you through some steps so that you can compile the [bootloaders](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) provided by [Roger Clark](https://github.com/rogerclarkmelbourne). The steps shown here are for compiling in Windows platform.
 
 # Procedure:
 Follow the step carefully, so that you don't land up in soup.
@@ -55,7 +55,7 @@ Download the bootloaders from [here](https://github.com/rogerclarkmelbourne/STM3
 
 Right click on the bootloader directory and you show see *Open Command Window here as Administrator* option. Clicking on it will open a command window after a prompt. 
 
-If you want to compile bootloader for **STM32f103C** variant then refer to the **make all.bat** file in the **STM32duino-bootloader** folder. In this case I am using the popular [BluePill](http://wiki.stm32duino.com/index.php?title=Blue_Pill) board where the LED is connected to *PC13* pin.
+If you want to compile bootloader for **STM32F103C** variant then refer to the **make all.bat** file in the **STM32duino-bootloader** folder. In this case I am using the popular [BluePill](http://wiki.stm32duino.com/index.php?title=Blue_Pill) board where the LED is connected to *PC13* pin.
 
 So in the command window run `make generic-pc13`. If everything goes good then you should see the following at the end of the process:
 
