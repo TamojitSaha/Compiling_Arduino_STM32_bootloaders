@@ -4,8 +4,9 @@ Here I walk you through some steps so that you can compile the [booloaders](http
 
 # Procedure:
 Follow the step carefully, so that you don't land up in soup.
+
 Install [7z](https://www.7-zip.org/download.html) if you dont have.
-If you already have WinAVR already installed jump to [STEP 3](#step3)
+If you already have WinAVR installed jump to [STEP 3](#step3)
 
 ## STEP 1
 Install WinAVR to get `make` command in Windows commandline from [here](http://winavr.sourceforge.net/download.html).
