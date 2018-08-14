@@ -35,7 +35,7 @@ You should see a folder named **GNU Tools ARM Embedded**. Inside the subfolder n
 
 For example:
 
-If you have extracted the folder inside *C:\Program Files (x86)* then the directory address should read *C:\Program Files (x86)\GNU Tools ARM Embedded\4.8.3-2014q1\arm-none-eabi\bin\*
+If you have extracted the folder inside *C:\Program Files (x86)* then the directory address should read *C:\Program Files (x86)\GNU Tools ARM Embedded\4.8.3-2014q1\bin*
 
 Copy the directory of this *bin* folder and add it to the **PATH** variable of *System Variables* and *User Variables*
 
